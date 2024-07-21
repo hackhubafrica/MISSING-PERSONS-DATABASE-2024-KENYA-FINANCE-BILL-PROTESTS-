@@ -1,3 +1,4 @@
+#Run this script separately to initialize the database
 from App import create_app, db
 
 app = create_app()
